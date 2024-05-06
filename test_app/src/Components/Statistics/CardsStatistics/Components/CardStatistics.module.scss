@@ -1,0 +1,36 @@
+.wrapper {
+  border-bottom: .1px solid grey;
+}
+
+.title {
+  display: flex;
+  align-items: baseline;
+}
+
+.stats {
+  display: flex;
+  flex-direction: column;
+}
+
+.rightStats {
+  display: flex;
+  align-items: baseline;
+}
+
+.traffic {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.percent {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.description {
+  color:#736f6f;
+}
+
+.help {
+  display: flex;
+}

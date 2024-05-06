@@ -1,0 +1,340 @@
+{
+  "tab1": {
+    "name": "last hour",
+    "errors":"0.12",
+    "zeroes":"5.12",
+    "timeouts":"0.12",
+    "today": [
+      {
+        "name": "Searcher",
+        "percent": "+5%",
+        "yesterday": "29380",
+        "lastFriday": "27985",
+        "content": [
+          {
+            "name": "MobilTraffic:",
+            "value": "100%"
+          },
+          {
+            "name": "WebTraffic:",
+            "value": "100%"
+          }
+        ],
+        "links": [
+          {
+            "name": "Searches",
+            "url": "https://www.jsonformatter.io/"
+          },
+          {
+            "name": "Pessimisation",
+            "url": "https://www.jsonformatter.io/"
+          }
+        ],
+        "description": "You get 100% traffic and desktop devices"
+      },
+      {
+        "name": "Clicks",
+        "percent": "-13%",
+        "yesterday": "243",
+        "lastFriday": "280",
+        "content": [
+          {
+            "name": "CTR:",
+            "value": "0.04%"
+          }
+        ],
+        "links": [
+          {
+            "name": "CTR",
+            "url": "https://www.jsonformatter.io/"
+          },
+          {
+            "name": "Clicks",
+            "url": "https://www.jsonformatter.io/"
+          }
+        ],
+        "description": "Conversion from searcher to click on all devices"
+      },
+      {
+        "name": "Bookings",
+        "percent": null,
+        "yesterday": "12",
+        "lastFriday": "23",
+        "content": [
+          {
+            "name": "STR:",
+            "value": "6.2%"
+          },
+          {
+            "name": "Avg.Check:",
+            "value": "8903"
+          }
+        ],
+        "links": [
+          {
+            "name": "STR",
+            "url": "https://www.jsonformatter.io/"
+          },
+          {
+            "name": "Bookings",
+            "url": "https://www.jsonformatter.io/"
+          },
+          {
+            "name": "Avg.Check",
+            "url": "https://www.jsonformatter.io/"
+          }
+        ],
+        "description": "Conversion from searcher to click on all devices"
+      }
+    ],
+    "days" : [
+       {
+          "name": "Searcher",
+          "percent": "-2%",
+          "yesterday": "31380",
+          "lastFriday": "19985",
+          "content": [
+            {
+              "name": "MobilTraffic:",
+              "value": "58%"
+            },
+            {
+              "name": "WebTraffic:",
+              "value": "79%"
+            }
+          ],
+          "links": [
+            {
+              "name": "Searches",
+              "url": "https://www.jsonformatter.io/"
+            },
+            {
+              "name": "Pessimisation",
+              "url": "https://www.jsonformatter.io/"
+            }
+          ],
+         "description": "You get 46% traffic and desktop devices"
+        },
+       {
+          "name": "Clicks",
+          "percent": "-13%",
+          "yesterday": "456",
+          "lastFriday": "23",
+          "content": [
+            {
+              "name": "CTR:",
+              "value": "0.34%"
+            }
+          ],
+          "links": [
+            {
+              "name": "CTR",
+              "url": "https://www.jsonformatter.io/"
+            },
+            {
+              "name": "Clicks",
+              "url": "https://www.jsonformatter.io/"
+            }
+          ],
+         "description": "Conversion from searcher to click on all devices"
+        },
+       {
+          "name": "Bookings",
+          "percent": null,
+          "yesterday": "8",
+          "lastFriday": "12",
+          "content": [
+            {
+              "name": "STR:",
+              "value": "5%"
+            },
+            {
+              "name": "Avg.Check:",
+              "value": "903"
+            }
+          ],
+          "links": [
+            {
+              "name": "STR",
+              "url": "https://www.jsonformatter.io/"
+            },
+            {
+              "name": "Bookings",
+              "url": "https://www.jsonformatter.io/"
+            },
+            {
+              "name": "Avg.Check",
+              "url": "https://www.jsonformatter.io/"
+            }
+          ],
+         "description": "Conversion from searcher to click on all devices"
+        }
+    ],
+    "hour" : [
+      {
+        "name": "Searcher",
+        "percent": "+8%",
+        "yesterday": "12000",
+        "lastFriday": "8000",
+        "content": [
+          {
+            "name": "MobilTraffic:",
+            "value": "35%"
+          },
+          {
+            "name": "WebTraffic:",
+            "value": "67%"
+          }
+        ],
+        "links": [
+          {
+            "name": "Searches",
+            "url": "https://www.jsonformatter.io/"
+          },
+          {
+            "name": "Pessimisation",
+            "url": "https://www.jsonformatter.io/"
+          }
+        ],
+        "description": "You get 77% traffic and desktop devices"
+      },
+      {
+        "name": "Clicks",
+        "percent": "-13%",
+        "yesterday": "123",
+        "lastFriday": "76",
+        "content": [
+          {
+            "name": "CTR:",
+            "value": "0.54%"
+          }
+        ],
+        "links": [
+          {
+            "name": "CTR",
+            "url": "https://www.jsonformatter.io/"
+          },
+          {
+            "name": "Clicks",
+            "url": "https://www.jsonformatter.io/"
+          }
+        ],
+        "description": "Conversion from searcher to click on all devices"
+      },
+      {
+        "name": "Bookings",
+        "percent": null,
+        "yesterday": "4",
+        "lastFriday": "8",
+        "content": [
+          {
+            "name": "STR:",
+            "value": "4%"
+          },
+          {
+            "name": "Avg.Check:",
+            "value": "5000"
+          }
+        ],
+        "links": [
+          {
+            "name": "STR",
+            "url": "https://www.jsonformatter.io/"
+          },
+          {
+            "name": "Bookings",
+            "url": "https://www.jsonformatter.io/"
+          },
+          {
+            "name": "Avg.Check",
+            "url": "https://www.jsonformatter.io/"
+          }
+        ],
+        "description": "Conversion from searcher to click on all devices"
+      }
+    ],
+    "yesterday" : [
+      {
+        "name": "Searcher",
+        "percent": "+12%",
+        "yesterday": "4000",
+        "lastFriday": "7000",
+        "content": [
+          {
+            "name": "MobilTraffic:",
+            "value": "24%"
+          },
+          {
+            "name": "WebTraffic:",
+            "value": "57%"
+          }
+        ],
+        "links": [
+          {
+            "name": "Searches",
+            "url": "https://www.jsonformatter.io/"
+          },
+          {
+            "name": "Pessimisation",
+            "url": "https://www.jsonformatter.io/"
+          }
+        ],
+        "description": "You get 28% traffic and desktop devices"
+      },
+      {
+        "name": "Clicks",
+        "percent": "-13%",
+        "yesterday": "90",
+        "lastFriday": "456",
+        "content": [
+          {
+            "name": "CTR:",
+            "value": "1%"
+          }
+        ],
+        "links": [
+          {
+            "name": "CTR",
+            "url": "https://www.jsonformatter.io/"
+          },
+          {
+            "name": "Clicks",
+            "url": "https://www.jsonformatter.io/"
+          }
+        ],
+        "description": "Conversion from searcher to click on all devices"
+      },
+      {
+        "name": "Bookings",
+        "percent": null,
+        "yesterday": "9",
+        "lastFriday": "18",
+        "content": [
+          {
+            "name": "STR:",
+            "value": "9%"
+          },
+          {
+            "name": "Avg.Check:",
+            "value": "478"
+          }
+        ],
+        "links": [
+          {
+            "name": "STR",
+            "url": "https://www.jsonformatter.io/"
+          },
+          {
+            "name": "Bookings",
+            "url": "https://www.jsonformatter.io/"
+          },
+          {
+            "name": "Avg.Check",
+            "url": "https://www.jsonformatter.io/"
+          }
+        ],
+        "description": "Conversion from searcher to click on all devices"
+      }
+    ]
+  }
+}

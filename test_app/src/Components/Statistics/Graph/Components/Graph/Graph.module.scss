@@ -1,0 +1,11 @@
+.progress {
+  height: 1rem;
+  overflow: hidden;
+  background-color: grey;
+  border-radius: .25rem;
+  display: flex;
+}
+
+.progressBar {
+  height: 12px;
+}

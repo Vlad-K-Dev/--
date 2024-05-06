@@ -1,0 +1,36 @@
+{
+  "pixels": {
+    "today": [
+      {
+        "error500": "1256",
+        "error501": "800",
+        "error502": "650",
+        "errorOther": "330"
+      }
+    ],
+    "days" : [
+      {
+        "error500": "800",
+        "error501": "1200",
+        "error502": "65",
+        "errorOther": "99"
+      }
+    ],
+    "hour" : [
+      {
+        "error500": "400",
+        "error501": "657",
+        "error502": "234",
+        "errorOther": "104"
+      }
+    ],
+    "yesterday" : [
+      {
+        "error500": "700",
+        "error501": "300",
+        "error502": "650",
+        "errorOther": "50"
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+$bgs: yellow, blue, red, grey;
+
+
+
+.wrapper {
+  display: flex;
+}
+
+.pixelCard {
+  display: flex;
+  justify-content: space-around;
+}
+
+.pixel{
+  content: "";
+  width: 15px;
+  height: 15px;
+  @each $bg in $bgs {
+    .pixel-#{$bg} {
+      background: $bg;
+    }
+  }
+}
+
+.error {
+  display: flex;
+  align-items: center;
+}
+
+.data {
+
+}

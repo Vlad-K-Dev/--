@@ -1,0 +1,22 @@
+.wrapper {
+    border: none;
+  :global {
+    .ant-tabs-nav {
+        border: none
+    }
+  }
+
+}
+
+.tabs {
+  :global {
+    .ant-tabs-tab {
+      border: .1px solid grey;
+      padding: 8px 16px;
+      margin: 0 !important;
+    }
+    .ant-tabs-tab-active {
+
+    }
+  }
+}
