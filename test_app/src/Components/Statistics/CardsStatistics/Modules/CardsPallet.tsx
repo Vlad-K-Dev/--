@@ -1,4 +1,4 @@
-import React, {useEffect, useCallback} from "react";
+import React from "react";
 import CardStatistics from '../Components/CardStatistics';
 import useGetStats from "../../../../Store/Store";
 

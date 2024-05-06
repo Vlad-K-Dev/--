@@ -2,9 +2,6 @@ import React from 'react';
 import styles from './Pixels.module.scss'
 import {Flex} from 'antd'
 
-type iStyles = {
-  pixel: string
-}
 type iPixel = {
     error500: string,
     error501: string,

@@ -11,7 +11,8 @@ const CardData = (props:iCard) => {
     const {title, desc} = props;
     return (
         <div className={styles.wrapper}>
-          <div className={styles.circle}></div>
+          <div className={styles.circle}>
+          </div>
           <Card
             className={styles.card}
             title={title}>

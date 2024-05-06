@@ -7,14 +7,10 @@ type iState = {
   loading: boolean,
   error: null | string,
   data: Array<any> | null,
-  pixelData: Array<any> | null,
   cardData: Array<any> | null,
   categories: string,
   updateCategory: (cat: string) => void,
   fetchData: () => void,
-  getPixels: () => any,
-  getCardData: () => any,
-
 }
 
 const URI = 'http://localhost:3000/Data/data.json'
@@ -28,11 +24,6 @@ const useGetStats = create<iState>()(devtools(immer((set, get) => ({
     categories: 'hour',
     updateCategory: async (cat) => {
       set({ categories:cat })
-    },
-    getPixels: async () => {
-      const pixelsData = get().pixelData;
-      if(!pixelsData) return null;
-      console.log(pixelsData)
     },
     fetchData: async () => {
       try {
@@ -50,11 +41,6 @@ const useGetStats = create<iState>()(devtools(immer((set, get) => ({
       } catch (error:any) {
         set({ error: error.message})
       }
-    },
-
-    getCardData: async () => {
-      const cardDataStat = get().data
-      set({ cardData: cardDataStat})
     },
   }
 ))))
